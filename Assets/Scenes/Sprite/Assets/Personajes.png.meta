@@ -1,0 +1,2509 @@
+fileFormatVersion: 2
+guid: 407ec17a54388c64a99baaa077be1c32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6793546094431307122
+    second: Personajes_0
+  - first:
+      213: 2555071131087466780
+    second: Personajes_1
+  - first:
+      213: 3330374347584649851
+    second: Personajes_2
+  - first:
+      213: 7912255684870006209
+    second: Personajes_3
+  - first:
+      213: -2958478465175809223
+    second: Personajes_4
+  - first:
+      213: 3192313705508189753
+    second: Personajes_5
+  - first:
+      213: -858849753801008285
+    second: Personajes_6
+  - first:
+      213: 7654515944616435474
+    second: Personajes_7
+  - first:
+      213: -7388045331355969199
+    second: Personajes_8
+  - first:
+      213: 1295701481168235364
+    second: Personajes_9
+  - first:
+      213: 7276771034413754383
+    second: Personajes_10
+  - first:
+      213: -8953387692186402160
+    second: Personajes_11
+  - first:
+      213: 5871633581489396092
+    second: Personajes_12
+  - first:
+      213: 7005332687709906992
+    second: Personajes_13
+  - first:
+      213: -5268888669599638581
+    second: Personajes_14
+  - first:
+      213: 8082649877613855792
+    second: Personajes_15
+  - first:
+      213: 6586856932164351226
+    second: Personajes_16
+  - first:
+      213: -2203229068117193188
+    second: Personajes_17
+  - first:
+      213: -133121309680124000
+    second: Personajes_18
+  - first:
+      213: 951518208051407187
+    second: Personajes_19
+  - first:
+      213: 8794564960228787331
+    second: Personajes_20
+  - first:
+      213: 1004356515522970332
+    second: Personajes_21
+  - first:
+      213: -2055063923743320601
+    second: Personajes_22
+  - first:
+      213: -711708158619636173
+    second: Personajes_23
+  - first:
+      213: 7526527060097702743
+    second: Personajes_24
+  - first:
+      213: -5092726558610251190
+    second: Personajes_25
+  - first:
+      213: 3995235209855463500
+    second: Personajes_26
+  - first:
+      213: -3512703485864535699
+    second: Personajes_27
+  - first:
+      213: 7019010121032844627
+    second: Personajes_28
+  - first:
+      213: -4461208494004462409
+    second: Personajes_29
+  - first:
+      213: -2131796717213343642
+    second: Personajes_30
+  - first:
+      213: 7025471133162578391
+    second: Personajes_31
+  - first:
+      213: -5895932224022114964
+    second: Personajes_32
+  - first:
+      213: -1856493596273551493
+    second: Personajes_33
+  - first:
+      213: 2994690051943151834
+    second: Personajes_34
+  - first:
+      213: -6983432463721340001
+    second: Personajes_35
+  - first:
+      213: -4405790338203059755
+    second: Personajes_36
+  - first:
+      213: 1981530697340229501
+    second: Personajes_37
+  - first:
+      213: -1071696002580501127
+    second: Personajes_38
+  - first:
+      213: -5910575006456602148
+    second: Personajes_39
+  - first:
+      213: -5142790964505399076
+    second: Personajes_40
+  - first:
+      213: -4791059224545824365
+    second: Personajes_41
+  - first:
+      213: -1054448088278578054
+    second: Personajes_42
+  - first:
+      213: -7165982150895703098
+    second: Personajes_43
+  - first:
+      213: 8842518150963503249
+    second: Personajes_44
+  - first:
+      213: 738541999323776384
+    second: Personajes_45
+  - first:
+      213: 433451380844403787
+    second: Personajes_46
+  - first:
+      213: 5979395522673333075
+    second: Personajes_47
+  - first:
+      213: 8350366468106146821
+    second: Personajes_48
+  - first:
+      213: -8964967731909849435
+    second: Personajes_49
+  - first:
+      213: -1868007976267518485
+    second: Personajes_50
+  - first:
+      213: 7208032492159613250
+    second: Personajes_51
+  - first:
+      213: -6992253054005055569
+    second: Personajes_52
+  - first:
+      213: 221515056725116230
+    second: Personajes_53
+  - first:
+      213: 8176458383256179599
+    second: Personajes_54
+  - first:
+      213: 5152945348141488876
+    second: Personajes_55
+  - first:
+      213: -489562738020973476
+    second: Personajes_56
+  - first:
+      213: 8156963446979909890
+    second: Personajes_57
+  - first:
+      213: -4445871639956993755
+    second: Personajes_58
+  - first:
+      213: 3411403252868094612
+    second: Personajes_59
+  - first:
+      213: -2623426530808679161
+    second: Personajes_60
+  - first:
+      213: 6001751961208166699
+    second: Personajes_61
+  - first:
+      213: -1686067225445411264
+    second: Personajes_62
+  - first:
+      213: -6749246555205007228
+    second: Personajes_63
+  - first:
+      213: -8788616788533687066
+    second: Personajes_64
+  - first:
+      213: 254303715259418595
+    second: Personajes_65
+  - first:
+      213: -6256342102627263573
+    second: Personajes_66
+  - first:
+      213: -3582536294325333931
+    second: Personajes_67
+  - first:
+      213: -5740739387780330646
+    second: Personajes_68
+  - first:
+      213: -5622615741664172205
+    second: Personajes_69
+  - first:
+      213: -6482088268015327267
+    second: Personajes_70
+  - first:
+      213: 1836525953983546582
+    second: Personajes_71
+  - first:
+      213: -637658266173472220
+    second: Personajes_72
+  - first:
+      213: -5881194720243233547
+    second: Personajes_73
+  - first:
+      213: 1068167418283153051
+    second: Personajes_74
+  - first:
+      213: -2266750531011960602
+    second: Personajes_75
+  - first:
+      213: 8767405152329392358
+    second: Personajes_76
+  - first:
+      213: 2148227485681022764
+    second: Personajes_77
+  - first:
+      213: -4400354013487849838
+    second: Personajes_78
+  - first:
+      213: -4355683775748017621
+    second: Personajes_79
+  - first:
+      213: -3400528654446668540
+    second: Personajes_80
+  - first:
+      213: -6727226001617730682
+    second: Personajes_81
+  - first:
+      213: -523470497557108778
+    second: Personajes_82
+  - first:
+      213: -6021300824269915518
+    second: Personajes_83
+  - first:
+      213: -8855247222648926216
+    second: Personajes_84
+  - first:
+      213: 5880241392775054835
+    second: Personajes_85
+  - first:
+      213: -3189456042957471818
+    second: Personajes_86
+  - first:
+      213: -8449433212066522216
+    second: Personajes_87
+  - first:
+      213: -2605616037174141927
+    second: Personajes_88
+  - first:
+      213: 5222232797063116528
+    second: Personajes_89
+  - first:
+      213: -5347994010957073772
+    second: Personajes_90
+  - first:
+      213: 521207583137923298
+    second: Personajes_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Personajes_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 412
+        width: 65
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8afd2422d978b1a0800000000000000
+      internalID: -6793546094431307122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 409
+        width: 77
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11f25808af657320800000000000000
+      internalID: 2555071131087466780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 412
+        width: 74
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a3bd4f2ddd73e20800000000000000
+      internalID: 3330374347584649851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 405
+        width: 75
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5edbcdf9afdcd60800000000000000
+      internalID: 7912255684870006209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_4
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 405
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9339d87b28f51f6d0800000000000000
+      internalID: -2958478465175809223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_5
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 406
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9363d6cc6606d4c20800000000000000
+      internalID: 3192313705508189753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_6
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 411
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b524503b0c414f0800000000000000
+      internalID: -858849753801008285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_7
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 412
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f1d6e32bd4a3a60800000000000000
+      internalID: 7654515944616435474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_8
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 411
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1595b082ae3687990800000000000000
+      internalID: -7388045331355969199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_9
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 413
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46beaf7d1a14bf110800000000000000
+      internalID: 1295701481168235364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_10
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 413
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08651aa3b84cf460800000000000000
+      internalID: 7276771034413754383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_11
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 392
+        width: 70
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09200eeb45d2fb380800000000000000
+      internalID: -8953387692186402160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_12
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 425
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c791ee312ab3c7150800000000000000
+      internalID: 5871633581489396092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_13
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 428
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038a160b6f0f73160800000000000000
+      internalID: 7005332687709906992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_14
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 432
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbde67bba521e6b0800000000000000
+      internalID: -5268888669599638581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_15
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 428
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034470f6d375b2070800000000000000
+      internalID: 8082649877613855792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_16
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 432
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4b9fb2b77396b50800000000000000
+      internalID: 6586856932164351226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_17
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 434
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e4f04f5de8c61e0800000000000000
+      internalID: -2203229068117193188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_18
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 432
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af3b78cfde072ef0800000000000000
+      internalID: -133121309680124000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_19
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 436
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3596834d4c8743d00800000000000000
+      internalID: 951518208051407187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_20
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 436
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384c8885c329c0a70800000000000000
+      internalID: 8794564960228787331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_21
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 436
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd28897fde030fd00800000000000000
+      internalID: 1004356515522970332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_22
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 411
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e51f82ef32fa73e0800000000000000
+      internalID: -2055063923743320601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_23
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 418
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33eaab553318f16f0800000000000000
+      internalID: -711708158619636173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_24
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 417
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b1d71eb78937860800000000000000
+      internalID: 7526527060097702743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_25
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 418
+        width: 41
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42a6d76d200359b0800000000000000
+      internalID: -5092726558610251190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_26
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 288
+        width: 91
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c407195714de17730800000000000000
+      internalID: 3995235209855463500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 285
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6994cb6ace504fc0800000000000000
+      internalID: -3512703485864535699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_28
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 282
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355c80b4488886160800000000000000
+      internalID: 7019010121032844627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_29
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 288
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc98edd28a9612c0800000000000000
+      internalID: -4461208494004462409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_30
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 287
+        width: 78
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660a7213e265a62e0800000000000000
+      internalID: -2131796717213343642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_31
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 288
+        width: 103
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1aae7e5cc7f7160800000000000000
+      internalID: 7025471133162578391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_32
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 287
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d026751e07d2ea0800000000000000
+      internalID: -5895932224022114964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_33
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 309
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77d35a09e86c36e0800000000000000
+      internalID: -1856493596273551493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_34
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 288
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8b7765cb64f8920800000000000000
+      internalID: 2994690051943151834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_35
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 288
+        width: 86
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9365fe8c2dd51f90800000000000000
+      internalID: -6983432463721340001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_36
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 296
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9fe80c70d7bd2c0800000000000000
+      internalID: -4405790338203059755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_37
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 296
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d771f7eabafcf7b10800000000000000
+      internalID: 1981530697340229501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_38
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 318
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dabfae9229021f0800000000000000
+      internalID: -1071696002580501127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_39
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 295
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd12ad1e85b69fda0800000000000000
+      internalID: -5910575006456602148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_40
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 283
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0319e8dd221a8b0800000000000000
+      internalID: -5142790964505399076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_41
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 284
+        width: 62
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3917617f40db28db0800000000000000
+      internalID: -4791059224545824365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_42
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 284
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cc018ec09dd51f0800000000000000
+      internalID: -1054448088278578054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_43
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 284
+        width: 104
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb621563315d8c90800000000000000
+      internalID: -7165982150895703098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_44
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 290
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190af1c986fe6ba70800000000000000
+      internalID: 8842518150963503249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_45
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 293
+        width: 88
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08586611904df3a00800000000000000
+      internalID: 738541999323776384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_46
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 281
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c12aefbbde30600800000000000000
+      internalID: 433451380844403787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_47
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 287
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35351843c841bf250800000000000000
+      internalID: 5979395522673333075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_48
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 294
+        width: 108
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504dcc38f0672e370800000000000000
+      internalID: 8350366468106146821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_49
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 342
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae8ca4a859069380800000000000000
+      internalID: -8964967731909849435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_50
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 330
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed6af884a08316e0800000000000000
+      internalID: -1868007976267518485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_51
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 304
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249b5a0ac53180460800000000000000
+      internalID: 7208032492159613250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_52
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 288
+        width: 56
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf6368d4e686fe90800000000000000
+      internalID: -6992253054005055569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_53
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 279
+        width: 55
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645408c35caf21300800000000000000
+      internalID: 221515056725116230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_54
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 284
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83dfbe249d987170800000000000000
+      internalID: 8176458383256179599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_55
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 282
+        width: 71
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea99fe1e70f28740800000000000000
+      internalID: 5152945348141488876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_56
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 284
+        width: 69
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c540ef89849b439f0800000000000000
+      internalID: -489562738020973476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_57
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 150
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209551f990b533170800000000000000
+      internalID: 8156963446979909890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_58
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 150
+        width: 51
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52941677c471d42c0800000000000000
+      internalID: -4445871639956993755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_59
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 152
+        width: 55
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a90d02f2db75f20800000000000000
+      internalID: 3411403252868094612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_60
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 154
+        width: 99
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70530d04877b79bd0800000000000000
+      internalID: -2623426530808679161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_61
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 153
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2911dd2c918a4350800000000000000
+      internalID: 6001751961208166699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_62
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 144
+        width: 69
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046d5e7aac2e998e0800000000000000
+      internalID: -1686067225445411264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_63
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 153
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4880a7f540cd552a0800000000000000
+      internalID: -6749246555205007228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_64
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 163
+        width: 87
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec4a6c489f880680800000000000000
+      internalID: -8788616788533687066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_65
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 157
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e78915b1e7778300800000000000000
+      internalID: 254303715259418595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_66
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 151
+        width: 94
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babd49351020d29a0800000000000000
+      internalID: -6256342102627263573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_67
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 151
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5505bcda836484ec0800000000000000
+      internalID: -3582536294325333931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_68
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 153
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b824b41fbc450b0800000000000000
+      internalID: -5740739387780330646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_69
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 163
+        width: 97
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3576699d5c478f1b0800000000000000
+      internalID: -5622615741664172205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_70
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 155
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd72836501ffa06a0800000000000000
+      internalID: -6482088268015327267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_71
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 150
+        width: 60
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d489f3ff96ac7910800000000000000
+      internalID: 1836525953983546582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_72
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 142
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42283a47f259627f0800000000000000
+      internalID: -637658266173472220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_73
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 162
+        width: 132
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fccff4df8cc16ea0800000000000000
+      internalID: -5881194720243233547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_74
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 143
+        width: 84
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96d9678b94e2de00800000000000000
+      internalID: 1068167418283153051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_75
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 151
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0aa9cd662ea80e0800000000000000
+      internalID: -2266750531011960602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_76
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 147
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0e58ac8841ca970800000000000000
+      internalID: 8767405152329392358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_77
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 147
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c277fb4348900dd10800000000000000
+      internalID: 2148227485681022764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_78
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 144
+        width: 107
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e971cb65dcee2c0800000000000000
+      internalID: -4400354013487849838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_79
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 153
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b227b90fea08d83c0800000000000000
+      internalID: -4355683775748017621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_80
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 152
+        width: 56
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4055b2f9435eec0d0800000000000000
+      internalID: -3400528654446668540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_81
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 37
+        width: 82
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683cdc9089714a2a0800000000000000
+      internalID: -6727226001617730682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_82
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 144
+        width: 57
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d726be1b524cb8f0800000000000000
+      internalID: -523470497557108778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_83
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 17
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28aff937dca007ca0800000000000000
+      internalID: -6021300824269915518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_84
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 22
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff0fbf6197db1580800000000000000
+      internalID: -8855247222648926216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_85
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 6
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5c7e15460da9150800000000000000
+      internalID: 5880241392775054835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_86
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 24
+        width: 105
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bffbcc90a6ccb3d0800000000000000
+      internalID: -3189456042957471818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_87
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 15
+        width: 81
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b1369b2459dba80800000000000000
+      internalID: -8449433212066522216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_88
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 17
+        width: 82
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c9c23f40ef6dbd0800000000000000
+      internalID: -2605616037174141927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_89
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 18
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f677537f09197840800000000000000
+      internalID: 5222232797063116528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_90
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 60
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492bcfb28cb18c5b0800000000000000
+      internalID: -5347994010957073772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_91
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 14
+        width: 57
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e00d2f0983bb3700800000000000000
+      internalID: 521207583137923298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Personajes_0: -6793546094431307122
+      Personajes_1: 2555071131087466780
+      Personajes_10: 7276771034413754383
+      Personajes_11: -8953387692186402160
+      Personajes_12: 5871633581489396092
+      Personajes_13: 7005332687709906992
+      Personajes_14: -5268888669599638581
+      Personajes_15: 8082649877613855792
+      Personajes_16: 6586856932164351226
+      Personajes_17: -2203229068117193188
+      Personajes_18: -133121309680124000
+      Personajes_19: 951518208051407187
+      Personajes_2: 3330374347584649851
+      Personajes_20: 8794564960228787331
+      Personajes_21: 1004356515522970332
+      Personajes_22: -2055063923743320601
+      Personajes_23: -711708158619636173
+      Personajes_24: 7526527060097702743
+      Personajes_25: -5092726558610251190
+      Personajes_26: 3995235209855463500
+      Personajes_27: -3512703485864535699
+      Personajes_28: 7019010121032844627
+      Personajes_29: -4461208494004462409
+      Personajes_3: 7912255684870006209
+      Personajes_30: -2131796717213343642
+      Personajes_31: 7025471133162578391
+      Personajes_32: -5895932224022114964
+      Personajes_33: -1856493596273551493
+      Personajes_34: 2994690051943151834
+      Personajes_35: -6983432463721340001
+      Personajes_36: -4405790338203059755
+      Personajes_37: 1981530697340229501
+      Personajes_38: -1071696002580501127
+      Personajes_39: -5910575006456602148
+      Personajes_4: -2958478465175809223
+      Personajes_40: -5142790964505399076
+      Personajes_41: -4791059224545824365
+      Personajes_42: -1054448088278578054
+      Personajes_43: -7165982150895703098
+      Personajes_44: 8842518150963503249
+      Personajes_45: 738541999323776384
+      Personajes_46: 433451380844403787
+      Personajes_47: 5979395522673333075
+      Personajes_48: 8350366468106146821
+      Personajes_49: -8964967731909849435
+      Personajes_5: 3192313705508189753
+      Personajes_50: -1868007976267518485
+      Personajes_51: 7208032492159613250
+      Personajes_52: -6992253054005055569
+      Personajes_53: 221515056725116230
+      Personajes_54: 8176458383256179599
+      Personajes_55: 5152945348141488876
+      Personajes_56: -489562738020973476
+      Personajes_57: 8156963446979909890
+      Personajes_58: -4445871639956993755
+      Personajes_59: 3411403252868094612
+      Personajes_6: -858849753801008285
+      Personajes_60: -2623426530808679161
+      Personajes_61: 6001751961208166699
+      Personajes_62: -1686067225445411264
+      Personajes_63: -6749246555205007228
+      Personajes_64: -8788616788533687066
+      Personajes_65: 254303715259418595
+      Personajes_66: -6256342102627263573
+      Personajes_67: -3582536294325333931
+      Personajes_68: -5740739387780330646
+      Personajes_69: -5622615741664172205
+      Personajes_7: 7654515944616435474
+      Personajes_70: -6482088268015327267
+      Personajes_71: 1836525953983546582
+      Personajes_72: -637658266173472220
+      Personajes_73: -5881194720243233547
+      Personajes_74: 1068167418283153051
+      Personajes_75: -2266750531011960602
+      Personajes_76: 8767405152329392358
+      Personajes_77: 2148227485681022764
+      Personajes_78: -4400354013487849838
+      Personajes_79: -4355683775748017621
+      Personajes_8: -7388045331355969199
+      Personajes_80: -3400528654446668540
+      Personajes_81: -6727226001617730682
+      Personajes_82: -523470497557108778
+      Personajes_83: -6021300824269915518
+      Personajes_84: -8855247222648926216
+      Personajes_85: 5880241392775054835
+      Personajes_86: -3189456042957471818
+      Personajes_87: -8449433212066522216
+      Personajes_88: -2605616037174141927
+      Personajes_89: 5222232797063116528
+      Personajes_9: 1295701481168235364
+      Personajes_90: -5347994010957073772
+      Personajes_91: 521207583137923298
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
